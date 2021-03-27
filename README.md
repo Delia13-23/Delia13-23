@@ -1,9 +1,13 @@
 <img src = "https://scontent.fmex24-1.fna.fbcdn.net/v/t1.0-9/165294445_1383719242027270_6331184735117026204_o.jpg?_nc_cat=100&ccb=1-3&_nc_sid=730e14&_nc_ohc=7IcYJ03h8BEAX8TyPWe&_nc_ht=scontent.fmex24-1.fna&oh=6f0d3f5b9d81af8c391b799b2b24d816&oe=60823987">
 <!--
-**Delia13-23/Delia13-23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Delia13-23/Delia13-23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-<p align="center">#Hola 👋, soy Delia</p>
-<p align="center">###Una estudiante de Matemáticas aplicadas y Computación</p>
+<p align="center">
+  #Hola 👋, soy Delia
+</p>
+<p align="center">
+  ###Una estudiante de Matemáticas aplicadas y Computación
+</p>
 
 - 🌱 Actualmente estoy aprendiendo Desarrollo móvil con *Javascript y React native*
 
@@ -11,7 +15,7 @@
 
 <p align="left">###Conecta conmigo:</>
 <p align="left">
-{href="https://twitter.com/nallely_delia" target="blank"}[<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="nallely_delia" height="30" width="40" />]</a>
+{href="https://twitter.com/nallely_delia" target="blank"}[<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="nallely_delia" height="30" width="40" />]
 <a href="https://linkedin.com/in/delia nallely de lira bernal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="delia nallely de lira bernal" height="30" width="40" /></a>
 <a href="https://fb.com/delia nallely" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="delia nallely" height="30" width="40" /></a>
 <a href="https://instagram.com/delia_nallely" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="delia_nallely" height="30" width="40" /></a>
