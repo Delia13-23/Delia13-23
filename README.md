@@ -6,29 +6,32 @@
   Hola 👋, soy Delia
 </h1>
 <h3> Sobre mí</h3>
-- Nací el 23 de Enero del 2000
-- En mis ratos libres me gusta ver series y salir con mis amigos
-- Me gusta bailar
-- 📫 Me puedes contactar en *13delia23@gmail.com
+<p>Nací el 23 de Enero del 2000</p>
+<p>En mis ratos libres me gusta ver series y salir con mis amigos</p>
+<p>Me gusta bailar</p>
+<p> 📫 Me puedes contactar en *13delia23@gmail.com*</p>
 
 <h3>Formación Académica</h3>
-- 🏫 Estudiante de la Facultad de Estudios Superiores Acatlán - UNAM
-- 💻 Licenciatura en Matemáticas aplicadas y Computación
+<p>🏫 Estudiante de la Facultad de Estudios Superiores Acatlán - UNAM</p>
+<p>💻 Licenciatura en Matemáticas aplicadas y Computación</p>
 <h3>Habilidades e Idiomas</h3>
-- Trabajo en equipo
-- Organización
-- Liderazgo
-- Creatividad
-- Resolución de problemas
+<p> Trabajo en equipo</p>
+<p> Organización</p>
+<p> Liderazgo</p>
+<p> Creatividad</p>
+<p> Resolución de problemas</p>
 <p>
-- Español nativo
-- Inglés Intermedio
-<p>
+<p> Español nativo</p>
+<p> Inglés Intermedio</p>
+</p>
 
 <h3>Experiencia</h3>
-- Actualmente estoy trabajando en Desarrollo Móvil dentro de [Hackademy]{https://hackademy.lat/},<img src = "https://media-exp1.licdn.com/dms/image/C4E0BAQEN3YNH3GzU6g/company-logo_200_200/0/1542586187086?e=2159024400&v=beta&t=JKCcSVA_GMYmAlF2cRvbVuoQ4S_48wOKQhgXk85Laeo">
-- Soy miembro del Grupo Universitario de Algoritmia Avanzada y Programación Competitiva [GUAPA]{https://www.facebook.com/programacioncompetitiva}, <img widt="64px" src ="https://scontent.fmex24-1.fna.fbcdn.net/v/t31.0-8/195117_189094961134879_1209425_o.jpg?_nc_cat=101&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=HztHLr0U-B8AX-njfCM&_nc_oc=AQknOxL9FdX-G0h0k6_84DVedclgOLbhud-ZSMgxJlEPslplaJ13B1PaBpqrEn2JijvR4LUGeDy5HtvfQOORYhPO&_nc_ht=scontent.fmex24-1.fna&oh=42f09739896e01da2262e0ee28355266&oe=6084A5EC">
-
+<p> 
+  Actualmente estoy trabajando en Desarrollo Móvil dentro de [<img widt="14px" src = "https://media-exp1.licdn.com/dms/image/C4E0BAQEN3YNH3GzU6g/company-logo_200_200/0/1542586187086?e=2159024400&v=beta&t=JKCcSVA_GMYmAlF2cRvbVuoQ4S_48wOKQhgXk85Laeo">]{https://hackademy.lat/}
+</p>
+<p> 
+  Soy miembro del Grupo Universitario de Algoritmia Avanzada y Programación Competitiva [<img widt="14px" src ="https://scontent.fmex24-1.fna.fbcdn.net/v/t31.0-8/195117_189094961134879_1209425_o.jpg?_nc_cat=101&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=HztHLr0U-B8AX-njfCM&_nc_oc=AQknOxL9FdX-G0h0k6_84DVedclgOLbhud-ZSMgxJlEPslplaJ13B1PaBpqrEn2JijvR4LUGeDy5HtvfQOORYhPO&_nc_ht=scontent.fmex24-1.fna&oh=42f09739896e01da2262e0ee28355266&oe=6084A5EC">]{https://www.facebook.com/programacioncompetitiva}
+</p>
 
 <h3 align="left">Lenguajes y Herramientas:</h3>
 - 🌱 Actualmente estoy aprendiendo Desarrollo móvil con *Javascript y React native*
