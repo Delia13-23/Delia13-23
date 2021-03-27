@@ -27,10 +27,10 @@
 
 <h3>Experiencia</h3>
 <p> 
-  Actualmente estoy trabajando en Desarrollo Móvil dentro de <a https://hackademy.lat/><img src = "https://media-exp1.licdn.com/dms/image/C4E0BAQEN3YNH3GzU6g/company-logo_200_200/0/1542586187086?e=2159024400&v=beta&t=JKCcSVA_GMYmAlF2cRvbVuoQ4S_48wOKQhgXk85Laeo" widt="20px" height="20px" >
+  Actualmente estoy trabajando en Desarrollo Móvil dentro de <a https://hackademy.lat/><img src = "https://media-exp1.licdn.com/dms/image/C4E0BAQEN3YNH3GzU6g/company-logo_200_200/0/1542586187086?e=2159024400&v=beta&t=JKCcSVA_GMYmAlF2cRvbVuoQ4S_48wOKQhgXk85Laeo" widt="40px" height="40px" >
 </p>
 <p> 
-  Soy miembro del Grupo Universitario de Algoritmia Avanzada y Programación Competitiva <a https://www.facebook.com/programacioncompetitiva><img src ="https://scontent.fmex24-1.fna.fbcdn.net/v/t31.0-8/195117_189094961134879_1209425_o.jpg?_nc_cat=101&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=HztHLr0U-B8AX-njfCM&_nc_oc=AQknOxL9FdX-G0h0k6_84DVedclgOLbhud-ZSMgxJlEPslplaJ13B1PaBpqrEn2JijvR4LUGeDy5HtvfQOORYhPO&_nc_ht=scontent.fmex24-1.fna&oh=42f09739896e01da2262e0ee28355266&oe=6084A5EC" widt="20px" height="20px" >
+  Soy miembro del Grupo Universitario de Algoritmia Avanzada y Programación Competitiva <a https://www.facebook.com/programacioncompetitiva><img src ="https://scontent.fmex24-1.fna.fbcdn.net/v/t31.0-8/195117_189094961134879_1209425_o.jpg?_nc_cat=101&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=HztHLr0U-B8AX-njfCM&_nc_oc=AQknOxL9FdX-G0h0k6_84DVedclgOLbhud-ZSMgxJlEPslplaJ13B1PaBpqrEn2JijvR4LUGeDy5HtvfQOORYhPO&_nc_ht=scontent.fmex24-1.fna&oh=42f09739896e01da2262e0ee28355266&oe=6084A5EC" widt="40px" height="40px" >
 </p>
 
 <h3 align="left">Lenguajes y Herramientas:</h3>
