@@ -6,7 +6,7 @@
   Hola 👋, soy Delia
 </h1>
 <h3> Sobre mí</h3>
-<p>Nací el 23 de Enero del 2000</p>
+<p>Nací el 13 de Enero del 2000</p>
 <p>En mis ratos libres me gusta ver series y salir con mis amigos</p>
 <p>Me gusta bailar</p>
 <p> 📫 Me puedes contactar en *13delia23@gmail.com*</p>
@@ -27,10 +27,10 @@
 
 <h3>Experiencia</h3>
 <p> 
-  Actualmente estoy trabajando en Desarrollo Móvil dentro de <a https://hackademy.lat/><img src = "https://media-exp1.licdn.com/dms/image/C4E0BAQEN3YNH3GzU6g/company-logo_200_200/0/1542586187086?e=2159024400&v=beta&t=JKCcSVA_GMYmAlF2cRvbVuoQ4S_48wOKQhgXk85Laeo" widt="40px" height="40px" >
+  Actualmente estoy trabajando en Desarrollo Móvil dentro de <a https://hackademy.lat/><img src = "https://media-exp1.licdn.com/dms/image/C4E0BAQEN3YNH3GzU6g/company-logo_200_200/0/1542586187086?e=2159024400&v=beta&t=JKCcSVA_GMYmAlF2cRvbVuoQ4S_48wOKQhgXk85Laeo" widt="40px" height="40px" ></a>
 </p>
 <p> 
-  Soy miembro del Grupo Universitario de Algoritmia Avanzada y Programación Competitiva <a https://www.facebook.com/programacioncompetitiva><img src ="https://scontent.fmex24-1.fna.fbcdn.net/v/t31.0-8/195117_189094961134879_1209425_o.jpg?_nc_cat=101&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=HztHLr0U-B8AX-njfCM&_nc_oc=AQknOxL9FdX-G0h0k6_84DVedclgOLbhud-ZSMgxJlEPslplaJ13B1PaBpqrEn2JijvR4LUGeDy5HtvfQOORYhPO&_nc_ht=scontent.fmex24-1.fna&oh=42f09739896e01da2262e0ee28355266&oe=6084A5EC" widt="40px" height="40px" >
+  Soy miembro del Grupo Universitario de Algoritmia Avanzada y Programación Competitiva <a https://www.facebook.com/programacioncompetitiva><img src ="https://scontent.fmex24-1.fna.fbcdn.net/v/t31.0-8/195117_189094961134879_1209425_o.jpg?_nc_cat=101&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=HztHLr0U-B8AX-njfCM&_nc_oc=AQknOxL9FdX-G0h0k6_84DVedclgOLbhud-ZSMgxJlEPslplaJ13B1PaBpqrEn2JijvR4LUGeDy5HtvfQOORYhPO&_nc_ht=scontent.fmex24-1.fna&oh=42f09739896e01da2262e0ee28355266&oe=6084A5EC" widt="50px" height="50px" ></a>
 </p>
 
 <h3 align="left">Lenguajes y Herramientas:</h3>
@@ -39,8 +39,8 @@
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
 <a href="https://twitter.com/nallely_delia" target="blank"}<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="nallely_delia" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/delia nallely de lira bernal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="delia nallely de lira bernal" height="30" width="40" /></a>
-<a href="https://fb.com/delia nallely" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="delia nallely" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/delia-nallely-de-lira-bernal-7833021a4?fbclid=IwAR2msqQ_t9bbVfMR24M2q6F0sZdJAiEaoCUvSfnfJDcLBmiGrvrXzWy74pM" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="delia nallely de lira bernal" height="30" width="40" /></a>
+<a href="https://www.facebook.com/deli.nallely/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="delia nallely" height="30" width="40" /></a>
 <a href="https://instagram.com/delia_nallely" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="delia_nallely" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/13delia23" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="13delia23" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/13delia23" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="13delia23" height="30" width="40" /></a>
