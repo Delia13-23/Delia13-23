@@ -4,22 +4,22 @@
 
 <h3> Sobre mí</h3>
 <p>Nací el 13 de Enero del 2000</p>
-Edo. de México
+Edo. de México</br>
 📫 Me puedes contactar en *13delia23@gmail.com*
 
 <h3>Formación Académica</h3>
 <p>🏫 Estudiante de la Facultad de Estudios Superiores Acatlán - UNAM</p>
 <p>💻 Licenciatura en Matemáticas aplicadas y Computación</p>
-<h3>Habilidades e Idiomas</h3>
+<h3>Habilidades</h3> 
 <p> Trabajo en equipo</p>
 <p> Organización</p>
 <p> Liderazgo</p>
 <p> Creatividad</p>
 <p> Resolución de problemas</p>
-<p>
-<p> Español nativo</p>
-<p> Inglés</p>
-</p>
+ <h3>Idiomas</h3>
+* Español nativo
+* Inglés
+
 
 <h3>Experiencia</h3>
 <p> 
