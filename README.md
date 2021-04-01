@@ -8,8 +8,9 @@ Edo. de México</br>
 📫 Me puedes contactar en *13delia23@gmail.com*
 
 <h3>Formación Académica</h3>
-<p>🏫 Estudiante de la Facultad de Estudios Superiores Acatlán - UNAM</p>
-<p>💻 Licenciatura en Matemáticas aplicadas y Computación</p>
+🏫 Estudiante de la Facultad de Estudios Superiores Acatlán - UNAM</br>
+💻 Licenciatura en Matemáticas aplicadas y Computación</br>
+
 <h3>Habilidades</h3> 
  Trabajo en equipo</br>
  Organización</br>
@@ -21,13 +22,11 @@ Edo. de México</br>
  Español nativo</br>
  Inglés
 
-<h3>Experiencia</h3>
-<p> 
+<h3>Experiencia</h3> 
   Actualmente estoy trabajando en Desarrollo Móvil dentro de Hackademy <a href="https://hackademy.lat"/><img src = "https://media-exp1.licdn.com/dms/image/C4E0BAQEN3YNH3GzU6g/company-logo_200_200/0/1542586187086?e=2159024400&v=beta&t=JKCcSVA_GMYmAlF2cRvbVuoQ4S_48wOKQhgXk85Laeo" widt="40px" height="40px" ></a>
-</p>
-<p> 
-  Soy miembro del Grupo Universitario de Algoritmia Avanzada y Programación Competitiva <a href="https://www.facebook.com/programacioncompetitiva"><img src ="https://scontent.fmex24-1.fna.fbcdn.net/v/t31.0-8/195117_189094961134879_1209425_o.jpg?_nc_cat=101&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=HztHLr0U-B8AX-njfCM&_nc_oc=AQknOxL9FdX-G0h0k6_84DVedclgOLbhud-ZSMgxJlEPslplaJ13B1PaBpqrEn2JijvR4LUGeDy5HtvfQOORYhPO&_nc_ht=scontent.fmex24-1.fna&oh=42f09739896e01da2262e0ee28355266&oe=6084A5EC" widt="50px" height="50px" ></a>
-</p>
+</br>
+ Soy miembro del Grupo Universitario de Algoritmia Avanzada y Programación Competitiva <a href="https://www.facebook.com/programacioncompetitiva"><img src ="https://scontent.fmex24-1.fna.fbcdn.net/v/t31.0-8/195117_189094961134879_1209425_o.jpg?_nc_cat=101&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=HztHLr0U-B8AX-njfCM&_nc_oc=AQknOxL9FdX-G0h0k6_84DVedclgOLbhud-ZSMgxJlEPslplaJ13B1PaBpqrEn2JijvR4LUGeDy5HtvfQOORYhPO&_nc_ht=scontent.fmex24-1.fna&oh=42f09739896e01da2262e0ee28355266&oe=6084A5EC" widt="50px" height="50px" ></a></br>
+
 <h3>Voluntariado</h3>
 Miembro de Jóvenes De Acción por Huehutoca
 
