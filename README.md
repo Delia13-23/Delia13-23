@@ -3,7 +3,7 @@
 **Delia13-23/Delia13-23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 <h3> Sobre mí</h3>
-<p>Nací el 13 de Enero del 2000</p>
+Nací el 13 de Enero del 2000</br>
 Edo. de México</br>
 📫 Me puedes contactar en *13delia23@gmail.com*
 
@@ -11,15 +11,15 @@ Edo. de México</br>
 <p>🏫 Estudiante de la Facultad de Estudios Superiores Acatlán - UNAM</p>
 <p>💻 Licenciatura en Matemáticas aplicadas y Computación</p>
 <h3>Habilidades</h3> 
-<p> Trabajo en equipo</p>
-<p> Organización</p>
-<p> Liderazgo</p>
-<p> Creatividad</p>
-<p> Resolución de problemas</p>
+ Trabajo en equipo</br>
+ Organización</br>
+ Liderazgo</br>
+ Creatividad</br>
+ Resolución de problemas</br>
+ 
  <h3>Idiomas</h3>
-* Español nativo
-* Inglés
-
+ Español nativo</br>
+ Inglés
 
 <h3>Experiencia</h3>
 <p> 
